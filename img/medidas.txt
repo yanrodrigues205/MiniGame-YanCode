@@ -1,0 +1,11 @@
+retry -- Posição = X: 2px  Y:605px
+         Dimensão = X:207px Y:207px
+
+emoji -- Posição = X:620px Y:35px
+         Dimensão = X:60px Y:60px
+
+jogar -- Posição = X:609px Y:110px
+         Dimensão = X:384px Y:276px
+
+solo -- Posição = X:10px   Y:900px
+        Dimensão = X:600px Y:50px
